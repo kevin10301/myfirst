@@ -1,0 +1,5 @@
+指令
+git status 檢查狀態
+git add 檔案名稱
+git commit -m "內容" 備註commit
+git push 推送檔修改至github
